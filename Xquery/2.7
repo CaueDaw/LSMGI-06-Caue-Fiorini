@@ -1,0 +1,1 @@
+round(avg(collection("CLASSICMODELS_BD")//check/amount))

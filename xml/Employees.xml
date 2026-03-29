@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee employeeNumber="1002">
+    <lastName>Murphy</lastName>
+    <firstName>Diane</firstName>
+    <email>dmurphy@classicmodelcars.com</email>
+    <reportsTo>NULL</reportsTo>
+    <jobTitle>President</jobTitle>
+    <office ofCode="1">
+      <City>San Francisco</City>
+      <Phone>+1 650 219 4782</Phone>
+      <AddressLine1>100 Market Street</AddressLine1>
+      <AddressLine2>Suite 300</AddressLine2>
+      <State>CA</State>
+      <Country>USA</Country>
+      <PostalCode>94080</PostalCode>
+      <Territory>NA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1056">
+    <lastName>Patterson</lastName>
+    <firstName>Mary</firstName>
+    <email>mpatterso@classicmodelcars.com</email>
+    <reportsTo>1002</reportsTo>
+    <jobTitle>VP Sales</jobTitle>
+    <office ofCode="1">
+      <City>San Francisco</City>
+      <Phone>+1 650 219 4782</Phone>
+      <AddressLine1>100 Market Street</AddressLine1>
+      <AddressLine2>Suite 300</AddressLine2>
+      <State>CA</State>
+      <Country>USA</Country>
+      <PostalCode>94080</PostalCode>
+      <Territory>NA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1076">
+    <lastName>Firrelli</lastName>
+    <firstName>Jeff</firstName>
+    <email>jfirrelli@classicmodelcars.com</email>
+    <reportsTo>1002</reportsTo>
+    <jobTitle>VP Marketing</jobTitle>
+    <office ofCode="1">
+      <City>San Francisco</City>
+      <Phone>+1 650 219 4782</Phone>
+      <AddressLine1>100 Market Street</AddressLine1>
+      <AddressLine2>Suite 300</AddressLine2>
+      <State>CA</State>
+      <Country>USA</Country>
+      <PostalCode>94080</PostalCode>
+      <Territory>NA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1165">
+    <lastName>Jennings</lastName>
+    <firstName>Leslie</firstName>
+    <email>ljennings@classicmodelcars.com</email>
+    <reportsTo>1056</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="1">
+      <City>San Francisco</City>
+      <Phone>+1 650 219 4782</Phone>
+      <AddressLine1>100 Market Street</AddressLine1>
+      <AddressLine2>Suite 300</AddressLine2>
+      <State>CA</State>
+      <Country>USA</Country>
+      <PostalCode>94080</PostalCode>
+      <Territory>NA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1166">
+    <lastName>Thompson</lastName>
+    <firstName>Leslie</firstName>
+    <email>lthompson@classicmodelcars.com</email>
+    <reportsTo>1056</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="1">
+      <City>San Francisco</City>
+      <Phone>+1 650 219 4782</Phone>
+      <AddressLine1>100 Market Street</AddressLine1>
+      <AddressLine2>Suite 300</AddressLine2>
+      <State>CA</State>
+      <Country>USA</Country>
+      <PostalCode>94080</PostalCode>
+      <Territory>NA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1188">
+    <lastName>Firrelli</lastName>
+    <firstName>Julie</firstName>
+    <email>jfirrelli@classicmodelcars.com</email>
+    <reportsTo>1056</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="2">
+      <City>Boston</City>
+      <Phone>+1 215 837 0825</Phone>
+      <AddressLine1>1550 Court Place</AddressLine1>
+      <AddressLine2>Suite 102</AddressLine2>
+      <State>MA</State>
+      <Country>USA</Country>
+      <PostalCode>02107</PostalCode>
+      <Territory>NA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1216">
+    <lastName>Patterson</lastName>
+    <firstName>Steve</firstName>
+    <email>spatterson@classicmodelcars.com</email>
+    <reportsTo>1056</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="2">
+      <City>Boston</City>
+      <Phone>+1 215 837 0825</Phone>
+      <AddressLine1>1550 Court Place</AddressLine1>
+      <AddressLine2>Suite 102</AddressLine2>
+      <State>MA</State>
+      <Country>USA</Country>
+      <PostalCode>02107</PostalCode>
+      <Territory>NA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="2003">
+    <lastName>Taylor</lastName>
+    <firstName>Alice</firstName>
+    <email>alice.taylor@classicmodels.com</email>
+    <reportsTo>1002</reportsTo>
+    <jobTitle>Sales Manager</jobTitle>
+    <office ofCode="2">
+      <City>Boston</City>
+      <Phone>+1 215 837 0825</Phone>
+      <AddressLine1>1550 Court Place</AddressLine1>
+      <AddressLine2>Suite 102</AddressLine2>
+      <State>MA</State>
+      <Country>USA</Country>
+      <PostalCode>02107</PostalCode>
+      <Territory>NA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1286">
+    <lastName>Tseng</lastName>
+    <firstName>Foon Yue</firstName>
+    <email>ftseng@classicmodelcars.com</email>
+    <reportsTo>1056</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="3">
+      <City>NYC</City>
+      <Phone>+1 212 555 3000</Phone>
+      <AddressLine1>523 East 53rd Street</AddressLine1>
+      <AddressLine2>apt. 5A</AddressLine2>
+      <State>NY</State>
+      <Country>USA</Country>
+      <PostalCode>10022</PostalCode>
+      <Territory>NA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1323">
+    <lastName>Vanauf</lastName>
+    <firstName>George</firstName>
+    <email>gvanauf@classicmodelcars.com</email>
+    <reportsTo>1056</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="3">
+      <City>NYC</City>
+      <Phone>+1 212 555 3000</Phone>
+      <AddressLine1>523 East 53rd Street</AddressLine1>
+      <AddressLine2>apt. 5A</AddressLine2>
+      <State>NY</State>
+      <Country>USA</Country>
+      <PostalCode>10022</PostalCode>
+      <Territory>NA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1102">
+    <lastName>Bondur</lastName>
+    <firstName>Gerard</firstName>
+    <email>gbondur@classicmodelcars.com</email>
+    <reportsTo>1056</reportsTo>
+    <jobTitle>Sale Manager (EMEA)</jobTitle>
+    <office ofCode="4">
+      <City>Paris</City>
+      <Phone>+33 14 723 4404</Phone>
+      <AddressLine1>43 Rue Jouffroy D abbans</AddressLine1>
+      <AddressLine2>NULL</AddressLine2>
+      <State>NULL</State>
+      <Country>France</Country>
+      <PostalCode>75017</PostalCode>
+      <Territory>EMEA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1337">
+    <lastName>Bondur</lastName>
+    <firstName>Loui</firstName>
+    <email>lbondur@classicmodelcars.com</email>
+    <reportsTo>1102</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="4">
+      <City>Paris</City>
+      <Phone>+33 14 723 4404</Phone>
+      <AddressLine1>43 Rue Jouffroy D abbans</AddressLine1>
+      <AddressLine2>NULL</AddressLine2>
+      <State>NULL</State>
+      <Country>France</Country>
+      <PostalCode>75017</PostalCode>
+      <Territory>EMEA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1370">
+    <lastName>Hernandez</lastName>
+    <firstName>Gerard</firstName>
+    <email>ghernande@classicmodelcars.com</email>
+    <reportsTo>1102</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="4">
+      <City>Paris</City>
+      <Phone>+33 14 723 4404</Phone>
+      <AddressLine1>43 Rue Jouffroy D abbans</AddressLine1>
+      <AddressLine2>NULL</AddressLine2>
+      <State>NULL</State>
+      <Country>France</Country>
+      <PostalCode>75017</PostalCode>
+      <Territory>EMEA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1401">
+    <lastName>Castillo</lastName>
+    <firstName>Pamela</firstName>
+    <email>pcastillo@classicmodelcars.com</email>
+    <reportsTo>1102</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="4">
+      <City>Paris</City>
+      <Phone>+33 14 723 4404</Phone>
+      <AddressLine1>43 Rue Jouffroy D abbans</AddressLine1>
+      <AddressLine2>NULL</AddressLine2>
+      <State>NULL</State>
+      <Country>France</Country>
+      <PostalCode>75017</PostalCode>
+      <Territory>EMEA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1702">
+    <lastName>Gerard</lastName>
+    <firstName>Martin</firstName>
+    <email>mgerard@classicmodelcars.com</email>
+    <reportsTo>1102</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="4">
+      <City>Paris</City>
+      <Phone>+33 14 723 4404</Phone>
+      <AddressLine1>43 Rue Jouffroy D abbans</AddressLine1>
+      <AddressLine2>NULL</AddressLine2>
+      <State>NULL</State>
+      <Country>France</Country>
+      <PostalCode>75017</PostalCode>
+      <Territory>EMEA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1621">
+    <lastName>Nishi</lastName>
+    <firstName>Mami</firstName>
+    <email>mnishi@classicmodelcars.com</email>
+    <reportsTo>1056</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="5">
+      <City>Tokyo</City>
+      <Phone>+81 33 224 5000</Phone>
+      <AddressLine1>4-1 Kioicho</AddressLine1>
+      <AddressLine2>NULL</AddressLine2>
+      <State>Chiyoda-Ku</State>
+      <Country>Japan</Country>
+      <PostalCode>102-8578</PostalCode>
+      <Territory>Japan</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1625">
+    <lastName>Kato</lastName>
+    <firstName>Yoshimi</firstName>
+    <email>ykato@classicmodelcars.com</email>
+    <reportsTo>1621</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="5">
+      <City>Tokyo</City>
+      <Phone>+81 33 224 5000</Phone>
+      <AddressLine1>4-1 Kioicho</AddressLine1>
+      <AddressLine2>NULL</AddressLine2>
+      <State>Chiyoda-Ku</State>
+      <Country>Japan</Country>
+      <PostalCode>102-8578</PostalCode>
+      <Territory>Japan</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1088">
+    <lastName>Patterson</lastName>
+    <firstName>William</firstName>
+    <email>wpatterson@classicmodelcars.com</email>
+    <reportsTo>1056</reportsTo>
+    <jobTitle>Sales Manager (APAC)</jobTitle>
+    <office ofCode="6">
+      <City>Sydney</City>
+      <Phone>+61 2 9264 2451</Phone>
+      <AddressLine1>5-11 Wentworth Avenue</AddressLine1>
+      <AddressLine2>Floor #2</AddressLine2>
+      <State>NULL</State>
+      <Country>Australia</Country>
+      <PostalCode>NSW 2010</PostalCode>
+      <Territory>APAC</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1611">
+    <lastName>Fixter</lastName>
+    <firstName>Andy</firstName>
+    <email>afixter@classicmodelcars.com</email>
+    <reportsTo>1088</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="6">
+      <City>Sydney</City>
+      <Phone>+61 2 9264 2451</Phone>
+      <AddressLine1>5-11 Wentworth Avenue</AddressLine1>
+      <AddressLine2>Floor #2</AddressLine2>
+      <State>NULL</State>
+      <Country>Australia</Country>
+      <PostalCode>NSW 2010</PostalCode>
+      <Territory>APAC</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1612">
+    <lastName>Marsh</lastName>
+    <firstName>Peter</firstName>
+    <email>pmarsh@classicmodelcars.com</email>
+    <reportsTo>1088</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="6">
+      <City>Sydney</City>
+      <Phone>+61 2 9264 2451</Phone>
+      <AddressLine1>5-11 Wentworth Avenue</AddressLine1>
+      <AddressLine2>Floor #2</AddressLine2>
+      <State>NULL</State>
+      <Country>Australia</Country>
+      <PostalCode>NSW 2010</PostalCode>
+      <Territory>APAC</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1619">
+    <lastName>King</lastName>
+    <firstName>Tom</firstName>
+    <email>tking@classicmodelcars.com</email>
+    <reportsTo>1088</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="6">
+      <City>Sydney</City>
+      <Phone>+61 2 9264 2451</Phone>
+      <AddressLine1>5-11 Wentworth Avenue</AddressLine1>
+      <AddressLine2>Floor #2</AddressLine2>
+      <State>NULL</State>
+      <Country>Australia</Country>
+      <PostalCode>NSW 2010</PostalCode>
+      <Territory>APAC</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1501">
+    <lastName>Bott</lastName>
+    <firstName>Larry</firstName>
+    <email>lbott@classicmodelcars.com</email>
+    <reportsTo>1102</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="7">
+      <City>London</City>
+      <Phone>+44 20 7877 2041</Phone>
+      <AddressLine1>25 Old Broad Street</AddressLine1>
+      <AddressLine2>Level 7</AddressLine2>
+      <State>NULL</State>
+      <Country>UK</Country>
+      <PostalCode>EC2N 1HN</PostalCode>
+      <Territory>EMEA</Territory>
+    </office>
+  </employee>
+  <employee employeeNumber="1504">
+    <lastName>Jones</lastName>
+    <firstName>Barry</firstName>
+    <email>bjones@classicmodelcars.com</email>
+    <reportsTo>1102</reportsTo>
+    <jobTitle>Sales Rep</jobTitle>
+    <office ofCode="7">
+      <City>London</City>
+      <Phone>+44 20 7877 2041</Phone>
+      <AddressLine1>25 Old Broad Street</AddressLine1>
+      <AddressLine2>Level 7</AddressLine2>
+      <State>NULL</State>
+      <Country>UK</Country>
+      <PostalCode>EC2N 1HN</PostalCode>
+      <Territory>EMEA</Territory>
+    </office>
+  </employee>
+</employees>
